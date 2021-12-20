@@ -2,7 +2,7 @@
 
 This project is a command-line parser build using nested linked lists that uses the theme of Shapes to demonstrate functionality.
 
-To compile, run `g++ -std=c++17 GroupNode.cpp GroupList.cpp Shape.cpp ShapeNode.cpp ShapeList.cpp Parser.cpp -o Parser` then run the executable to initiate the CLIO.
+To compile, run `g++ -std=c++17 GroupNode.cpp GroupList.cpp Shape.cpp ShapeNode.cpp ShapeList.cpp Parser.cpp -o Parser` then run the executable to initiate the CLI.
 
 ---
 
