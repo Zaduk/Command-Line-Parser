@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="lab4" targetName="default_target" />
+      <config projectName="lab4" targetName="cmake_force" />
+      <config projectName="lab4" targetName="depend" />
+      <config projectName="lab4" targetName="lab4" />
+      <config projectName="lab4" targetName="edit_cache" />
+      <config projectName="lab4" targetName="all" />
+      <config projectName="lab4" targetName="help" />
+      <config projectName="lab4" targetName="cmake_check_build_system" />
+      <config projectName="lab4" targetName="preinstall" />
+      <config projectName="lab4" targetName="rebuild_cache" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2977e9dc-e312-4184-bc95-92ed74b1bf34" name="Changes" comment="modifications">
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Parser.exe.dir/Circle.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Parser.exe.dir/Circle.cpp.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Parser.exe.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Parser.exe.dir/Parser.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Parser.exe.dir/Parser.cpp.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Parser.exe.dir/Rectangle.cpp.o.d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Parser.exe.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Parser.exe.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Parser.exe.dir/compiler_depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Parser.exe.dir/compiler_depend.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Parser.exe.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Parser.exe.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Parser.exe.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Parser.exe.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Progress/1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Progress/2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Progress/3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/Progress/count.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lab5/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/Circle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/Circle.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/Parser.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/Parser.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/Rectangle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/Rectangle.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/Rectangle.h" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/Rectangle.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/Triangle.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/Triangle.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lab5/Triangle.h" beforeDir="false" afterPath="$PROJECT_DIR$/../lab5/Triangle.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MakefileLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="lab4" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="lab4" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectId" id="21BwuKBuRjKZ6qJyaoEJmwAVmQP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="dynamic.analysis.tools.valgrind" />
+  </component>
+  <component name="RunManager" selected="Makefile Application.all">
+    <configuration name="all" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" REDIRECT_INPUT_PATH="$PROJECT_DIR$/testcases.txt" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab4" TARGET_NAME="all" CONFIG_NAME="all" version="1" RUN_PATH="$PROJECT_DIR$/Parser">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cmake_check_build_system" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab4" TARGET_NAME="cmake_check_build_system" CONFIG_NAME="cmake_check_build_system" version="1" RUN_PATH="$PROJECT_DIR$/Parser">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="cmake_force" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab4" TARGET_NAME="cmake_force" CONFIG_NAME="cmake_force" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="default_target" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab4" TARGET_NAME="default_target" CONFIG_NAME="default_target" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="depend" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab4" TARGET_NAME="depend" CONFIG_NAME="depend" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="edit_cache" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab4" TARGET_NAME="edit_cache" CONFIG_NAME="edit_cache" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="help" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab4" TARGET_NAME="help" CONFIG_NAME="help" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lab4" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab4" TARGET_NAME="lab4" CONFIG_NAME="lab4" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="preinstall" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab4" TARGET_NAME="preinstall" CONFIG_NAME="preinstall" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="rebuild_cache" type="CLionNativeAppRunConfigurationType" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="lab4" TARGET_NAME="rebuild_cache" CONFIG_NAME="rebuild_cache" version="1">
+      <method v="2">
+        <option name="CLION.COMPOUND.BUILD" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Makefile Application.all" />
+      <item itemvalue="Makefile Application.cmake_check_build_system" />
+      <item itemvalue="Makefile Application.cmake_force" />
+      <item itemvalue="Makefile Application.default_target" />
+      <item itemvalue="Makefile Application.depend" />
+      <item itemvalue="Makefile Application.edit_cache" />
+      <item itemvalue="Makefile Application.help" />
+      <item itemvalue="Makefile Application.lab4" />
+      <item itemvalue="Makefile Application.preinstall" />
+      <item itemvalue="Makefile Application.rebuild_cache" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2977e9dc-e312-4184-bc95-92ed74b1bf34" name="Changes" comment="" />
+      <created>1637428010290</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637428010290</updated>
+      <workItem from="1637428011813" duration="9611000" />
+      <workItem from="1637796779493" duration="34706000" />
+      <workItem from="1637899406583" duration="8183000" />
+      <workItem from="1637942942147" duration="18642000" />
+      <workItem from="1637969083491" duration="11000" />
+      <workItem from="1638770814567" duration="607000" />
+    </task>
+    <task id="LOCAL-00001" summary="modifications">
+      <created>1637438891948</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1637438891948</updated>
+    </task>
+    <task id="LOCAL-00002" summary="modifications">
+      <created>1637812451762</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637812451762</updated>
+    </task>
+    <task id="LOCAL-00003" summary="modifications">
+      <created>1637860002088</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1637860002088</updated>
+    </task>
+    <task id="LOCAL-00004" summary="modifications">
+      <created>1637896939755</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1637896939755</updated>
+    </task>
+    <task id="LOCAL-00005" summary="modifications">
+      <created>1637899391876</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1637899391876</updated>
+    </task>
+    <task id="LOCAL-00006" summary="modifications">
+      <created>1637903416051</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1637903416051</updated>
+    </task>
+    <task id="LOCAL-00007" summary="modifications">
+      <created>1637942848095</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1637942848095</updated>
+    </task>
+    <task id="LOCAL-00008" summary="modifications">
+      <created>1637957522654</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1637957522654</updated>
+    </task>
+    <task id="LOCAL-00009" summary="modifications">
+      <created>1637962103401</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1637962103401</updated>
+    </task>
+    <task id="LOCAL-00010" summary="modifications">
+      <created>1637963278714</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1637963278715</updated>
+    </task>
+    <task id="LOCAL-00011" summary="modifications">
+      <created>1637964717029</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1637964717029</updated>
+    </task>
+    <task id="LOCAL-00012" summary="modifications">
+      <created>1637966207684</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1637966207684</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="modifications" />
+    <option name="LAST_COMMIT_MESSAGE" value="modifications" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/GroupNode.cpp</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
